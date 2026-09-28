@@ -1,5 +1,5 @@
 ## Visitor Counter
-Oh, so you're curious about how many people have actually seen this repo? Not that it matters, but if you must know, here's the count:
+Oh, so you're curious about how many people have actually seen this? Not that it matters, but if you must know, here's the count:
 
 ![](https://count.getloli.com/get/@Millesant.github.readme)
 
